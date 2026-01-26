@@ -12,3 +12,4 @@ namespace DEPI_Day02
         public int width;
     }
 }
+
